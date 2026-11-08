@@ -1,0 +1,11 @@
+.carousel img {
+  object-fit: cover;
+}
+/* Make carousel indicators round */
+.carousel-indicators button {
+  width: 12px !important;
+  height: 12px !important;
+  border-radius: 50% !important;
+  margin: 0 6px !important;
+  border: 0 !important;
+}
